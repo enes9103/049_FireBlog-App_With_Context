@@ -9,7 +9,7 @@ import Menu from "@material-ui/core/Menu";
 import AccountCircle from "@material-ui/icons/AccountCircle";
 import { useAuth } from "../contexts/AuthContext";
 import { Link, useNavigate } from "react-router-dom";
-import cwJpeg from "../assets/cw.jpeg";
+import cwJpeg from "../assets/logo.png";
 
 const useStyles = makeStyles((theme) => ({
   grow: {
@@ -100,7 +100,7 @@ const useStyles = makeStyles((theme) => ({
     color: "black",
   },
   cwImg: {
-    width: 40,
+    width: 90,
   },
   appBar: {
     backgroundColor: "#046582",
@@ -196,7 +196,7 @@ export default function PrimarySearchAppBar() {
           <div className={classes.grow} />
           <Link to="/" className={classes.login}>
             <Typography className={classes.title} variant="h6" noWrap>
-              ──── <span>{"<ed8en/>"}</span> Blog ────
+              ──── <span>{"<Enes's/>"}</span> Blog ────
             </Typography>
           </Link>
           <div className={classes.grow} />

@@ -23,6 +23,7 @@ const useStyles = makeStyles((theme) => ({
   title: {
     fontFamily: "Girassol",
     textAlign: "center",
+    marginTop: "100px",
     color: "#046582",
   },
   mainRoot: {
