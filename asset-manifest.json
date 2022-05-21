@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/049_FireBlog-App_With_Context/static/css/main.9a3f7bc5.chunk.css",
+    "main.js": "/049_FireBlog-App_With_Context/static/js/main.e853503f.chunk.js",
+    "main.js.map": "/049_FireBlog-App_With_Context/static/js/main.e853503f.chunk.js.map",
+    "runtime-main.js": "/049_FireBlog-App_With_Context/static/js/runtime-main.be615316.js",
+    "runtime-main.js.map": "/049_FireBlog-App_With_Context/static/js/runtime-main.be615316.js.map",
+    "static/css/2.c55f41dc.chunk.css": "/049_FireBlog-App_With_Context/static/css/2.c55f41dc.chunk.css",
+    "static/js/2.e4fdcbc5.chunk.js": "/049_FireBlog-App_With_Context/static/js/2.e4fdcbc5.chunk.js",
+    "static/js/2.e4fdcbc5.chunk.js.map": "/049_FireBlog-App_With_Context/static/js/2.e4fdcbc5.chunk.js.map",
+    "index.html": "/049_FireBlog-App_With_Context/index.html",
+    "static/css/2.c55f41dc.chunk.css.map": "/049_FireBlog-App_With_Context/static/css/2.c55f41dc.chunk.css.map",
+    "static/css/main.9a3f7bc5.chunk.css.map": "/049_FireBlog-App_With_Context/static/css/main.9a3f7bc5.chunk.css.map",
+    "static/js/2.e4fdcbc5.chunk.js.LICENSE.txt": "/049_FireBlog-App_With_Context/static/js/2.e4fdcbc5.chunk.js.LICENSE.txt",
+    "static/media/blok.7e6674a5.png": "/049_FireBlog-App_With_Context/static/media/blok.7e6674a5.png",
+    "static/media/google.d1e31f45.png": "/049_FireBlog-App_With_Context/static/media/google.d1e31f45.png",
+    "static/media/loading.91319f38.gif": "/049_FireBlog-App_With_Context/static/media/loading.91319f38.gif",
+    "static/media/no-data.a03fc88a.png": "/049_FireBlog-App_With_Context/static/media/no-data.a03fc88a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be615316.js",
+    "static/css/2.c55f41dc.chunk.css",
+    "static/js/2.e4fdcbc5.chunk.js",
+    "static/css/main.9a3f7bc5.chunk.css",
+    "static/js/main.e853503f.chunk.js"
+  ]
+}
