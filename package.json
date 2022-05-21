@@ -1,4 +1,5 @@
 {
+  "homepage": "https://enes9103.github.io/049_FireBlog-App_With_Context/",
   "name": "trial-a",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +11,7 @@
     "@testing-library/user-event": "^12.1.10",
     "firebase": "^9.6.2",
     "formik": "^2.2.6",
+    "gh-pages": "^4.0.0",
     "moment": "^2.29.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -23,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
